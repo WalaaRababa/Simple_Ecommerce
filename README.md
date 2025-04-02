@@ -29,31 +29,31 @@ Welcome to **Nursery Paradise**, a simple e-commerce website built with **Vite, 
    npm run dev
    ```
 ## Folder Structure 📂
-
- ├── src/
- │   ├── components/               # Reusable components
- │   │   ├── article/              # Article component
- │   │   ├── banner/               # Banner component
- │   │   ├── cart/                 # Cart component
- │   │   ├── listOfProduct/        # List of Product component
- │   ├── layout/                   # Layout components (Header, Footer)
- │   │   ├── header/               # Header component
- │   │   ├── footer/               # Footer component
- │   ├── pages/                    # Page components
- │   │   ├── blog/                 # Blog page
- │   │   ├── home/                 # Home page
- │   │   ├── shop/                 # Shop page
- │   │   ├── plant/                # Plant page
- │   │   ├── 404/                  # 404 page
- │   │   ├── faq/                  # FAQ page
- │   ├── store/                    # Redux store
- │   ├── App.js                    # Main App component
- │   ├── main.jsx                  # Entry point
- ├── public/
- ├── package.json                 # Dependencies & scripts
- ├── README.md                    # Documentation
- ├── screenshots/                 # Folder for screenshots
-
+```
+├── src/
+│   ├── components/               # Reusable components
+│   │   ├── article/              # Article component
+│   │   ├── banner/               # Banner component
+│   │   ├── cart/                 # Cart component
+│   │   ├── listOfProduct/        # List of Product component
+│   ├── layout/                   # Layout components (Header, Footer)
+│   │   ├── header/               # Header component
+│   │   ├── footer/               # Footer component
+│   ├── pages/                    # Page components
+│   │   ├── blog/                 # Blog page
+│   │   ├── home/                 # Home page
+│   │   ├── shop/                 # Shop page
+│   │   ├── plant/                # Plant page
+│   │   ├── 404/                  # 404 page
+│   │   ├── faq/                  # FAQ page
+│   ├── store/                    # Redux store
+│   ├── App.js                    # Main App component
+│   ├── main.jsx                  # Entry point
+├── public/
+├── package.json                 # Dependencies & scripts
+├── README.md                    # Documentation
+├── screenshots/                 # Folder for screenshots
+```
 
 ## Screenshots 📸
 
