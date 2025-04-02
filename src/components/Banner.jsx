@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom'
 const Banner = () => {
   const navigate=useNavigate();
   return (
-    <section>
+    <section className='mt-10'>
     <div className="bg-gray-50 dark:bg-gray-900 mx-auto max-w-screen-2xl px-4 py-8 sm:px-6 lg:px-8">
       <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
         <div className="bg-gray-50 dark:bg-gray-900 p-8 md:p-12 lg:px-16 lg:py-24">
@@ -23,7 +23,7 @@ const Banner = () => {
             <button onClick={()=>navigate('/shop')}
           class="inline-block rounded-full bg-teal-600 px-12 py-3 text-sm font-medium text-white transition hover:bg-teal-600 focus:ring-3 focus:outline-hidden"
         >
-          Get Yours Today
+          Get Started
         </button>
             </div>
           </div>

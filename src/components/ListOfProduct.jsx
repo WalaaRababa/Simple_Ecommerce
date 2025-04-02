@@ -12,7 +12,7 @@ const ListOfProduct = () => {
         "Low-maintenance indoor plant that purifies air and thrives in low light.",
       image:
         "https://images.pexels.com/photos/4505163/pexels-photo-4505163.jpeg",
-      price: 15.99,
+      price: 15,
       category: "Indoor",
     },
     {
@@ -22,7 +22,7 @@ const ListOfProduct = () => {
         "Popular tropical plant with large, split leaves, perfect for indoor decor.",
       image:
         "https://images.pexels.com/photos/3076899/pexels-photo-3076899.jpeg",
-      price: 29.99,
+      price: 29,
       category: "Indoor",
     },
     {
@@ -32,7 +32,7 @@ const ListOfProduct = () => {
         "A healing succulent plant known for its soothing gel, easy to care for.",
       image:
         "https://images.unsplash.com/photo-1485955900006-10f4d324d411?q=80&w=2672&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      price: 12.5,
+      price: 12,
       category: "Succulent",
     },
     {
@@ -42,7 +42,7 @@ const ListOfProduct = () => {
         "Tall and elegant plant with violin-shaped leaves, ideal for living rooms.",
       image:
         "https://images.pexels.com/photos/5825347/pexels-photo-5825347.jpeg",
-      price: 45.99,
+      price: 45,
       category: "Indoor",
     },
     {
@@ -52,7 +52,7 @@ const ListOfProduct = () => {
         "Hardy indoor plant with arching green and white leaves, great for beginners.",
       image:
         "https://images.pexels.com/photos/4505160/pexels-photo-4505160.jpeg",
-      price: 10.99,
+      price: 10,
       category: "Indoor",
     },
     {
@@ -62,7 +62,7 @@ const ListOfProduct = () => {
         "Beautiful flowering plant that improves indoor air quality and thrives in shade.",
       image:
         "https://images.pexels.com/photos/7429815/pexels-photo-7429815.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
-      price: 18.99,
+      price: 18,
       category: "Indoor",
     },
     {
@@ -70,7 +70,7 @@ const ListOfProduct = () => {
       name: "Pothos",
       details: "Fast-growing vine plant, ideal for hanging baskets or shelves.",
       image: "https://images.pexels.com/photos/708649/pexels-photo-708649.jpeg",
-      price: 9.99,
+      price: 9,
       category: "Indoor",
     },
     {
@@ -80,7 +80,7 @@ const ListOfProduct = () => {
         "An elegant palm plant that adds a tropical touch to indoor spaces.",
       image:
         "https://images.pexels.com/photos/2123482/pexels-photo-2123482.jpeg",
-      price: 33.5,
+      price: 33,
       category: "Tropical",
     },
     {
@@ -89,7 +89,7 @@ const ListOfProduct = () => {
       details:
         "A set of small, easy-care succulents perfect for desks and shelves.",
       image: "https://images.pexels.com/photos/691371/pexels-photo-691371.jpeg",
-      price: 14.99,
+      price: 14,
       category: "Succulent",
     },
     {
@@ -99,7 +99,7 @@ const ListOfProduct = () => {
         "A fragrant herb plant known for its calming scent and medicinal uses.",
       image:
         "https://images.pexels.com/photos/16398470/pexels-photo-16398470/free-photo-of-plants-on-windowsill.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      price: 22.75,
+      price: 22,
       category: "Herb",
     },
   ];

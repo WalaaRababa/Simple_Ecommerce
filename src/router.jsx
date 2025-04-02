@@ -5,6 +5,7 @@ const About = lazy(() => import("./pages/About"));
 const Shop = lazy(() => import("./pages/Shop"));
 const FAQ = lazy(() => import("./pages/FAQ"));
 const Plants = lazy(() => import("./pages/Plants"));
+const Blog = lazy(() => import("./pages/Blog"));
 const NotFound = lazy(() => import("./pages/NotFound"));
 const router = createBrowserRouter([
   {
@@ -44,6 +45,14 @@ const router = createBrowserRouter([
     element: (
       <Suspense fallback={<div className="text-center">Loading...</div>}>
         <Plants />
+      </Suspense>
+    ),
+  },
+  {
+    path: "/blog",
+    element: (
+      <Suspense fallback={<div className="text-center">Loading...</div>}>
+        <Blog />
       </Suspense>
     ),
   },
